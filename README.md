@@ -1,1 +1,1 @@
-# mysql1
+# analisa sales (1) dengan mysql
